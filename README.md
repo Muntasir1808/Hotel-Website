@@ -1,0 +1,1 @@
+Explore the simple hotel website project crafted using only HTML and CSS. Navigate through the Home, About, and Contact pages to discover more about our establishment and offerings. Check out the link https://hotel-website08.netlify.app/
